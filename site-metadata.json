@@ -1,37 +1,6 @@
 {
     "base_font": "nunito-sans",
     "palette": "blue",
-    "header": {
-        "logo_img_alt": "Logo",
-        "has_nav": false,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
-            }
-        ]
-    },
     "title": "",
     "domain": "micahgalicinski.net"
 }
