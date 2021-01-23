@@ -2,7 +2,7 @@
 title: Micah Galicinski
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: ''
     content: ''
     image_alt: lorem-ipsum
     actions: []
